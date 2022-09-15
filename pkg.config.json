@@ -1,0 +1,5 @@
+{
+  "scripts": "./dist/*.js",
+  "assets": ["./dist/worker.js"],
+  "targets": [ "node14-win-x64" ]
+}
